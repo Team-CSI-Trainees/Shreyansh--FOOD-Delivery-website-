@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Shreyansh--FOOD-Delivery-website-/static/css/main.4fcfbe0a.css",
+    "main.js": "/Shreyansh--FOOD-Delivery-website-/static/js/main.43048f57.js",
+    "static/js/787.b7c9c4a7.chunk.js": "/Shreyansh--FOOD-Delivery-website-/static/js/787.b7c9c4a7.chunk.js",
+    "static/media/food-item10.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item10.aa6b73299977e5042c50.png",
+    "static/media/food-item9.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item9.479e662dd7c43b08b207.png",
+    "static/media/food-item1.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item1.b46b41d31a1db10f5810.png",
+    "static/media/food-item4.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item4.517ec5133333b54c4e8f.png",
+    "static/media/food-item6.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item6.4d730cfda983423a5ea2.png",
+    "static/media/food-item5.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item5.0c6cb6d043fc35a0237b.png",
+    "static/media/food-item7.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item7.9d6f093a030410e1096e.png",
+    "static/media/food-item8.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item8.82fbdfc83a1fb0277438.png",
+    "static/media/food-item3.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item3.d7235f0e3bc0dcb3e2b7.png",
+    "static/media/food-item2.png": "/Shreyansh--FOOD-Delivery-website-/static/media/food-item2.af7bb5bc33024cb65bcd.png",
+    "static/media/row.jpg": "/Shreyansh--FOOD-Delivery-website-/static/media/row.fddff43b48fcdb442bd7.jpg",
+    "static/media/delivery.png": "/Shreyansh--FOOD-Delivery-website-/static/media/delivery.30c218cbc7d00fe7c76c.png",
+    "static/media/character.png": "/Shreyansh--FOOD-Delivery-website-/static/media/character.76bb3b3f9d81390c9425.png",
+    "index.html": "/Shreyansh--FOOD-Delivery-website-/index.html",
+    "main.4fcfbe0a.css.map": "/Shreyansh--FOOD-Delivery-website-/static/css/main.4fcfbe0a.css.map",
+    "main.43048f57.js.map": "/Shreyansh--FOOD-Delivery-website-/static/js/main.43048f57.js.map",
+    "787.b7c9c4a7.chunk.js.map": "/Shreyansh--FOOD-Delivery-website-/static/js/787.b7c9c4a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fcfbe0a.css",
+    "static/js/main.43048f57.js"
+  ]
+}
